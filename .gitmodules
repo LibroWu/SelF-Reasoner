@@ -1,0 +1,6 @@
+[submodule "ECQA-Dataset"]
+	path = ECQA-Dataset
+	url = https://github.com/dair-iitd/ECQA-Dataset
+[submodule "ScienceQA"]
+	path = ScienceQA
+	url = https://github.com/lupantech/ScienceQA
