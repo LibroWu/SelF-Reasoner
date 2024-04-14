@@ -2,7 +2,7 @@
 
 
 
-![models](.\figures\models.jpg)
+![models](./figures/models.jpg)
 
 
 
